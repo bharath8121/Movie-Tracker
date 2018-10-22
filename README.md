@@ -1,2 +1,2 @@
 # Movie-Tracker.
-This is a program that tracks your favorite movie in your desired theatres and sends you notification when the tickets are available so that you cannot be late for your favorite movie. It even has email and desktop notifications to inform you even if you are not available.
+This is a web scrapper for bookmyshow that tracks your favorite movie in your desired theaters and sends you an email notification when the tickets are available. It can even push desktop notifications to inform you about tickets.
